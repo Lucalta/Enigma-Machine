@@ -1,4 +1,4 @@
 # Enigma-Machine
 An old project of mine that mimics the behavior of an enigma machine
 
-The original-src folder contains the original project in c++, the single file in modified-src is a simple adaptation that I made which was made to be easy to get to run on an Arduino.
+The original-src folder contains the original project in c++ and might not work at all, but was the base of the single file found in modified-src, which is a simple working adaptation that I made which was made to be easy to get to run on an Arduino.
